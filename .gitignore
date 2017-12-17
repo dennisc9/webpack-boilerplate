@@ -1,0 +1,43 @@
+ # MAC OSx generated files #
+##########################
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+ ## Windows #
+############
+ehthumbs.db
+Thumbs.db
+
+ # Node.js #
+###########
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+pids
+logs
+results
+npm-debug.log
+node_modules
+
+ ## Bower #
+##########
+src/components
+
+ ## Sass #
+#########
+.sass-cache
+
+
+## Dist #
+dist
